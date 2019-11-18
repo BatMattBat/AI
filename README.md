@@ -1,1 +1,2 @@
 # AI
+# AI Project @UMN
