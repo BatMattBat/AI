@@ -1,0 +1,7 @@
+# Gitignore
+
+.zip
+.rar
+.raw
+.o
+
